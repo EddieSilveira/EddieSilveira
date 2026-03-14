@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Eddie Silveira 👋
 
-<!--
-**EddieSilveira/EddieSilveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack Developer focused on **React, TypeScript and Node.js**.
 
-Here are some ideas to get you started:
+💻 Experience building web applications and APIs  
+⚡ Strong experience with React, NestJS and PostgreSQL  
+📚 Currently studying system architecture, DDD and scalable backend patterns
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech Stack
+
+### Frontend
+- React
+- Next.js
+- TypeScript
+- Tailwind
+
+### Backend
+- Node.js
+- NestJS
+- TypeORM
+- PostgreSQL
+- MySQL
+- MongoDB
+
+### Tools
+- Docker
+- Git
+- Linux
+- Jest
+
+---
+
+## What I'm currently working on
+
+- Studying **Clean Architecture and Domain Driven Design**
+- Building a **custom job queue implementation in Node.js**
+- Experimenting with **LLM-powered automated test generation**
+
+---
+
+## Contact
+
+LinkedIn  
+https://www.linkedin.com/in/eddie-silveira/
